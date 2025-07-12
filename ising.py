@@ -18,3 +18,4 @@ Ising = []
 print("Ising model simulation started")
 print("abcd")
 print("abc")
+im
