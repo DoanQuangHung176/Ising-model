@@ -10,6 +10,7 @@ B2: vào terminal, gõ lệnh:
 git add .
 git commit -m "viết j vào đây cx đc, chủ yếu m là message để note lại những thay đổi của mình"
 git push origin main
+git pull (để kéo file người kahcs đã tải lên main vào máy mình)
 """
 import numpy as np
 import matplotlib.pyplot as plt
@@ -18,4 +19,3 @@ Ising = []
 print("Ising model simulation started")
 print("abcd")
 print("abc")
-im
